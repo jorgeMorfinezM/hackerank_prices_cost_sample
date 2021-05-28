@@ -30,7 +30,7 @@ import sys
 # The function accepts INTEGER_ARRAY prices as parameter.
 #
 
-os.environ['OUTPUT_PATH'] = "/root/PycharmProjects/minimum_prices_costs/output.txt"
+os.environ['OUTPUT_PATH'] = "/your/home/path/minimum_prices_costs/output.txt"
 
 
 def calculate_amount(prices):
